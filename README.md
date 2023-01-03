@@ -15,5 +15,7 @@ docker run -d -p 4444:4444 -v /dev/shm:/dev/shm selenium/standalone-chrome:lates
 <img width="1792" alt="Screenshot 2023-01-03 at 11 57 13 AM" src="https://user-images.githubusercontent.com/19299232/210310757-3f32827e-6be7-4716-bdc6-bd27f84fae8f.png">
 
 
+Step 3 : 
+<img width="1100" alt="Screenshot 2023-01-03 at 12 15 43 PM" src="https://user-images.githubusercontent.com/19299232/210310890-d91e22a5-170a-43dc-b292-6cb56f6a5640.png">
 
 
